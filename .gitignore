@@ -1,6 +1,6 @@
+**/.DS_Store
 **/.*.sw[a-z]
 **/*.sw[a-z]
 **/*.tar
 **/*.tar.gz
-
-
+**/node_modules
